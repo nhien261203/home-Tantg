@@ -1,6 +1,8 @@
 1. Giao diện desktok
 
 ![Uploading d1.png…]()
+![alt](![Uploading d1.png…]()
+)
 
 ![Uploading d2.png…]()
 ![Uploading d3.png…]()
